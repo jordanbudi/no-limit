@@ -1,0 +1,32 @@
+
+
+body{
+    background-image: url(../images/no-limit-background.jpg);
+    background-color: #cccccc;
+    font-family: 'Slabo 27px', serif;
+    
+}
+
+h1 { 
+  font-family: 'Merriweather', Arial, serif; 
+  font-weight: 800; 
+}
+
+h3{
+  font-family: 'Raleway', sans-serif;
+  font-weight: 800
+}
+
+div{
+  background-color: #FD4774;
+  opacity:0.8;
+  padding: 10px;
+}
+
+.centerBox {
+  display:inline-block;
+  text-align:center;
+  width: 50%;
+  border-radius: 25px;
+  border: 15px solid #000000;
+}
